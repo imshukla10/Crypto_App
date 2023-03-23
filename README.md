@@ -2,6 +2,8 @@
 
 ![Cryptoverse - A React JS Crypocurrency App](https://user-images.githubusercontent.com/71302066/174958362-420d51e0-a043-48ff-a60f-c460b6827db1.png)
 
+# Live Link [Click Here](https://cryptocurrencynewsapp.netlify.app/)
+
 ## ⚠️ Before you start
 
 1. Make sure **Git** and **NodeJS** is installed
