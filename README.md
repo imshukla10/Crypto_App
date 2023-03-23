@@ -2,14 +2,6 @@
 
 ![Cryptoverse - A React JS Crypocurrency App](https://user-images.githubusercontent.com/71302066/174958362-420d51e0-a043-48ff-a60f-c460b6827db1.png)
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Technical-Shubham-tech)
-[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/crypto-app)](https://github.com/Technical-Shubham-tech/crypto-app/blob/main/LICENSE.md)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Technical-Shubham-tech/crypto-app/commits/main)
-[![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/crypto-app/)](https://github.com/Technical-Shubham-tech/crypto-app/branches)
-[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/crypto-app/main)](https://github.com/Technical-Shubham-tech/crypto-app/commits)
-[![Website](https://api.netlify.com/api/v1/badges/1168c732-d2c3-4f68-9d18-da766abac0a0/deploy-status)](https://reactjscryptoapp.netlify.app/)
-[![GitHub issues](https://img.shields.io/github/issues/Technical-Shubham-tech/crypto-app)](https://github.com/Technical-Shubham-tech/crypto-app/issues)
-
 ## ⚠️ Before you start
 
 1. Make sure **Git** and **NodeJS** is installed
